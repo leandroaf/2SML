@@ -1,8 +1,8 @@
 # Smart Spaces Modeling Language (2SML)
 
-A 2SML é a linguagem de modelagem de espaços inteligentes, implementada como produto da tese de doutorado de Leandro Alexandre Freitas.
+2SML is the smart spaces modeling language, implemented as a product of the doctoral thesis of Leandro Alexandre Freitas.
 
-## Requisitos:
+## Requirements:
 
 * Java 7;
 * Eclipse EuGENia;
